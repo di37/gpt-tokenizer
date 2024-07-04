@@ -86,3 +86,7 @@ Tokenization can be at the heart of several complexities and strange behaviors o
 ## Notes
 
 These notes are created using Gemini-1.5-Pro available on ai.google.dev. 
+
+## Reference
+
+- Let's build the GPT Tokenizer - Complete tutorial by Dr.Andrej Karpathy - https://www.youtube.com/watch?v=zduSFxRajkE&t=3527s&ab_channel=AndrejKarpathy
